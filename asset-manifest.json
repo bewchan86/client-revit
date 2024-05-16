@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/client-revit/static/css/main.073c9b0a.css",
+    "main.js": "/client-revit/static/js/main.af9181a6.js",
+    "static/js/787.4d670efc.chunk.js": "/client-revit/static/js/787.4d670efc.chunk.js",
+    "index.html": "/client-revit/index.html",
+    "main.073c9b0a.css.map": "/client-revit/static/css/main.073c9b0a.css.map",
+    "main.af9181a6.js.map": "/client-revit/static/js/main.af9181a6.js.map",
+    "787.4d670efc.chunk.js.map": "/client-revit/static/js/787.4d670efc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.af9181a6.js"
+  ]
+}
